@@ -40,7 +40,6 @@ Following are the conditions for deciding roommates:-
 6 11
 8 6
 4 8
-
 ```
 
 **Expected output:**  
@@ -51,7 +50,3 @@ Following are the conditions for deciding roommates:-
 4 11
 6 8 10
 ```
-
-
-
-<!-- 1 2 3 4 5 7 9 10 11 12 -->
